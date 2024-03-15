@@ -1,3 +1,0 @@
-# pippocode
-
-22
