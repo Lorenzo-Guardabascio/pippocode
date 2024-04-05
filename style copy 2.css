@@ -1,0 +1,10 @@
+.navbar{
+    background-color: firebrick;
+}
+
+.box-colorato{
+    height: 25px;
+    width: 100%;
+    background-color: forestgreen;
+    margin-bottom: 10px;
+}
